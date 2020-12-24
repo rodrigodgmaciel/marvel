@@ -19,5 +19,5 @@ Estes documento README tem como objetivo fornecer as informações necessárias 
 
 ### Observações ###
 
-1. Foi utilizado o cocoapods para realizar gerenciamento de dependencia;
+1. Foi utilizado o cocoapods para realizar gerenciamento de dependência;
 2. Foi utilizado a lib SDWebImage para a visualização das imagens de forma assíncrona.  
